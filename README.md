@@ -1,7 +1,5 @@
 # 💫 About Me:
-Software Engineer | C++ (OOP and DSA )| Python (OOP)| HTML & CSS | 
-Web developer | Google AI Essentials Certified |
-SQL and NOSQL | MS OFFICE
+I am Muhammad Abdullah, a passionate Software Engineering student at the University of Engineering and Technology (UET), Lahore. I enjoy designing and developing modern, efficient, and user-focused software solutions while continuously expanding my technical skills.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Abdullah_Asadullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahasadullah776@gmail.com) 
